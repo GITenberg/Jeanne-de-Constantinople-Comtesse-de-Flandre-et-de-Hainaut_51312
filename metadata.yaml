@@ -1,0 +1,30 @@
+_repo: Jeanne-de-Constantinople-Comtesse-de-Flandre-et-de-Hainaut_51312
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Glay, Edouard André Joseph
+    aliases:
+    - Le Glay, Edouard Andre Joseph
+    - Glay, Edward le
+    - Glay, Edouard André Joseph le
+    - Le Glay, Edward
+    birthdate: 1814
+    deathdate: 1894
+    gutenberg_agent_id: '46353'
+    url: http://www.gutenberg.org/2009/agents/46353
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2016-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51312'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DH'
+- !lcsh 'Jeanne, of Constantinople, approximately 1200-1244'
+- GITenberg
+title: 'Jeanne de Constantinople: Comtesse de Flandre et de Hainaut'
+url: http://www.gutenberg.org/ebooks/51312
