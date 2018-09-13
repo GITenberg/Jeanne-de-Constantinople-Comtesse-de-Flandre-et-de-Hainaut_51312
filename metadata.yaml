@@ -1,5 +1,8 @@
 _repo: Jeanne-de-Constantinople-Comtesse-de-Flandre-et-de-Hainaut_51312
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51312-h/images/cover.jpg
 creator:
   author:
     agent_name: Le Glay, Edouard André Joseph
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '46353'
     url: http://www.gutenberg.org/2009/agents/46353
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51312#Jeanne-de-Constantinople-Comtesse-de-Flandre-et-de-Hainaut
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2016-02-27'
 gutenberg_type: Text
